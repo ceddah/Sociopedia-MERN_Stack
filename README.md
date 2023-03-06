@@ -11,4 +11,4 @@ Key Features:
 - Data inputs done using react-dropzone
 
 
-#### Preview: [Live Demo:](https://sociopedia-mern-01.onrender.com)
+#### Preview: [Live Demo:](https://sociopedia-mern-app-1.onrender.com)
